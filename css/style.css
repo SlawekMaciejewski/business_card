@@ -1,7 +1,12 @@
 html {
-	box-sizing: border-box;
+   box-sizing: border-box;
 }
 
 *, *:before, *:after {
-	box-sizing: inherit;
+   box-sizing: inherit;
+}
+
+body {
+   background-color: #7f92a6;
+   background-image: linear-gradient(110.3deg, rgba(72, 85, 99, 0.7) 5%, rgba(127, 146, 166, 1) 95%);
 }
