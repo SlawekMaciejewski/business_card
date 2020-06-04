@@ -31,6 +31,12 @@ body {
    line-height: 22px;
 }
 
+.person__link {
+   color: #E20613;
+   font-weight: normal;
+   text-decoration: none;
+}
+
 .person__name {
    font-size: 36px;
    margin: 0px;
